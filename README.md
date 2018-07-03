@@ -1,4 +1,4 @@
-# myapp
+# Cooling Fan App
 
 A new Flutter project.
 
